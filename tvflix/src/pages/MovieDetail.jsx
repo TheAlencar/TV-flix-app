@@ -6,9 +6,7 @@ export const MovieDetail = () => {
 
     return (
         <div>
-            <Navbar />
             MovieDetail : {id}
-            <Footer />
         </div>
     )
 }
